@@ -789,6 +789,11 @@
         <td> <a href="https://code.visualstudio.com/docs/intelligentapps/overview"> AI Toolkit </a> </td>
         <td> Visual Studio Code 的 AI Toolkit 是一個綜合性擴展，為開發人員和 AI 工程師提供使用生成式 AI 模型構建、測試和部署智能應用程序的能力。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/JohnnyZ93/oai-compatible-copilot/blob/main/assets/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
+        <td> 開源的 VS Code 擴充功能，可在 GitHub Copilot 中使用 OpenAI 相容的推理提供者。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
