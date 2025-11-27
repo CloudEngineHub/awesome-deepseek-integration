@@ -678,6 +678,11 @@
 
 <table>
     <tr>
+        <td><img src="./docs/SelectTranslate/assets/icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://selecttranslate.com/">精挑翻譯</a></td>
+        <td>一款免費開放的 AI 翻譯插件，具備雙語網頁翻譯、擇優翻譯（文案翻譯）、輸入翻譯、PDF 翻譯等創新實用的翻譯功能。</td>
+    </tr>
+    <tr>
         <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://chromewebstore.google.com/detail/cjapgnecnkblehipjghhegiccobeloka?utm_source=item-share-cb">覓果</a></td>
         <td> 提供全面的文本處理、資訊檢索與知識問答功能，靈活適配多種線上辦公與科研場景（如飛書、arXiv、Overleaf 等），助力高效智慧化工作流程。</td>

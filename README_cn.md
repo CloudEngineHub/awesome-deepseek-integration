@@ -577,6 +577,11 @@
 
 <table>
     <tr>
+        <td><img src="./docs/SelectTranslate/assets/icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://selecttranslate.com/">精挑翻译</a></td>
+        <td>一款免费开放的 AI 翻译插件，拥有双语网页翻译、择优翻译（文案翻译）、输入翻译、PDF 翻译等创新实用的翻译功能。</td>
+    </tr>
+    <tr>
         <td><img src="./docs/deepshare/assets/logo_200.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="./docs/deepshare/README_cn.md">小智蜂</a></td>
         <td> 小智蜂是免费免登录一键分享AI聊天的油猴插件,专门解决数千字AI问答发给朋友,导致其手机被刷屏,或长截图被压缩,打开模糊不清,不方便阅读的问题,满足用户将自己与AI智慧的结晶分享给他人的需求
