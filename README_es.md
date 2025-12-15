@@ -420,6 +420,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/SamYuan1990/i18n-agent-action">i18n-agent-action</a> </td>
         <td> El i18n Agent es una herramienta impulsada por inteligencia artificial diseñada para simplificar y automatizar los flujos de trabajo de internacionalización (i18n) y localización (l10n). Al aprovechar el procesamiento avanzado de lenguaje natural (NLP) y el aprendizaje automático, ayuda a desarrolladores, traductores y equipos de productos a gestionar contenido multilingüe de manera eficiente, eliminando errores manuales y acelerando los despliegues globales. </td>
     </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/rockbenben/subtitle-translator/main/public/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/rockbenben/subtitle-translator">Subtitle Translator</a></td>
+        <td>Herramienta de traducción de subtítulos por lotes para formatos SRT/ASS/VTT/LRC, compatible con DeepSeek y otras interfaces de LLM y traducción automática.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

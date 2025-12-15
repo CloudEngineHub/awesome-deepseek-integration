@@ -339,6 +339,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/SamYuan1990/i18n-agent-action">i18n-agent-action</a> </td>
         <td> i18n Agentは、AIを駆使したツールであり、国際化（i18n）と現地化（l10n）のワークフローを効率化し自動化するように設計されています。先進的な自然言語処理（NLP）と機械学習技術を活用することで、開発者、翻訳者、製品チームが多言語コンテンツを効率的に管理できるよう支援し、人的ミスを排除しつつ全球展開の速度を加速します。 </td>
     </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/rockbenben/subtitle-translator/main/public/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/rockbenben/subtitle-translator">Subtitle Translator</a></td>
+        <td>SRT/ASS/VTT/LRC形式に対応したバッチ字幕翻訳ツール。DeepSeekを含む多様なLLMおよび機械翻訳インターフェースと互換性があります。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
