@@ -817,6 +817,16 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://code.visualstudio.com/docs/intelligentapps/overview"> AI Toolkit </a> </td>
         <td> AI Toolkit for Visual Studio Code is a comprehensive extension that empowers developers and AI engineers to build, test, and deploy intelligent applications using generative AI models. </td>
     </tr>
+    <tr>
+        <td> <img src="https://johnny-zhao.gallerycdn.vsassets.io/extensions/johnny-zhao/oai-compatible-copilot/0.2.0/1766643762308/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/JohnnyZ93/oai-compatible-copilot"> OAI Compatible Provider for Copilot </a> </td>
+        <td> A VS Code extension that integrates OpenAI-compatible inference providers (including DeepSeek) into GitHub Copilot Chat. Supports multiple API modes and vision models. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://littlecareless.gallerycdn.vsassets.io/extensions/littlecareless/dish-ai-commit/0.56.1/1766035023782/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/littleCareless/dish-ai-commit"> Dish AI Commit </a> </td>
+        <td> An AI-powered VS Code extension that automatically generates standardized Git/SVN commit messages, PR summaries, and weekly reports using DeepSeek and other AI providers. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
@@ -1114,6 +1124,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <img src="https://www.godtierprompts.com/logo.jpg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> </td>
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> is a community driven leaderboard where the best prompts rise to the top.</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/LSTM-Kirigaya/openmcp-client/raw/main/icons/openmcp.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/LSTM-Kirigaya/openmcp-client"> OpenMCP </a> </td>
+        <td> An all-in-one VS Code/Trae/Cursor plugin for MCP server development and debugging. Uses DeepSeek as the default LLM for testing MCP servers. </td>
     </tr>
 </table>
 
