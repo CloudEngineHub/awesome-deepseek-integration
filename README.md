@@ -1115,6 +1115,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> </td>
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> is a community driven leaderboard where the best prompts rise to the top.</td>
     </tr>
+    <tr>
+        <td></td>
+        <td> <a href="https://github.com/informatico-madrid/blackwell-linux-infra-optimizer"> Blackwell Linux Infra Optimizer </a> </td>
+        <td> Optimized vLLM stack for NVIDIA Blackwell (SM_120) and Linux Kernel 6.14. Achieving 59.0 t/s on DeepSeek-R1-32B using native FlashInfer backend. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
