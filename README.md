@@ -454,6 +454,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/SamYuan1990/i18n-agent-action">i18n-agent-action</a> </td>
         <td> The i18n Agent is an AI-powered tool designed to streamline and automate internationalization (i18n) and localization (l10n) workflows. By leveraging advanced natural language processing (NLP) and machine learning, it helps developers, translators, and product teams efficiently manage multilingual content—eliminating manual errors and accelerating global deployments. </td>
     </tr>
+    <tr>
+        <td width=80> <img src="docs/turtlenoir/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
+        <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> An AI-hosted lateral thinking puzzle game (Situation Puzzles / "Turtle Soup") powered by DeepSeek, supporting both single-player and multiplayer modes. The AI moderator manages the game flow and provides witty commentary, guiding the deduction process through standard "Yes / No / Irrelevant" Q&A. Features include an immersive gameplay mode, smart hints, puzzle deduplication, and content moderation. Perfect for casual brain training and online social gaming. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
