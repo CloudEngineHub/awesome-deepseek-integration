@@ -388,6 +388,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td><a href="https://github.com/rockbenben/subtitle-translator">Subtitle Translator</a></td>
         <td>SRT/ASS/VTT/LRC形式に対応したバッチ字幕翻訳ツール。DeepSeekを含む多様なLLMおよび機械翻訳インターフェースと互換性があります。</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/songquanpeng/one-api/main/web/default/public/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
+        <td> One API は LLM API 管理＆キー再配布システムで、OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek など複数のプロバイダーを統一 API で管理できます。シングルバイナリ、Docker 対応、すぐに使えます。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
