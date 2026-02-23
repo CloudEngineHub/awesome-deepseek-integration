@@ -400,6 +400,11 @@
         <td> <a href="https://github.com/TarsLab/obsidian-tars">Obsidian Tars</a></td>
         <td> 把大模型对话融入到 Obsidian 的笔记编辑, deepseek-reasoner 的思维链以 callout 格式输出。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://www.chatbotbuilder.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/bobbylkchao/chatbotBuilder">AI Chatbot Builder</a> </td>
+        <td> <a href="www.chatbotbuilder.dev/">Chatbot Builder</a> 是一个开源平台，集成了 DeepSeek 和 OpenAI模型，允许用户为不同的对话场景创建定制化的聊天机器人。通过低代码和可配置的方式，轻松构建智能对话体验。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

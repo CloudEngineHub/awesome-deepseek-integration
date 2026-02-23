@@ -493,6 +493,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/TarsLab/obsidian-tars">Obsidian Tars</a></td>
         <td> Integrate LLM conversations into Obsidian's note editing, with deepseek-reasoner's CoT output in callout format. </td>
     </tr>
+    <tr>
+        <td> <img src="https://www.chatbotbuilder.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/bobbylkchao/chatbotBuilder">AI Chatbot Builder</a> </td>
+        <td> <a href="www.chatbotbuilder.dev/">Chatbot Builder</a> is an open-source chatbot platform powered by DeepSeek and OpenAI, enabling intelligent conversations across various scenarios.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
