@@ -54,6 +54,11 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
         <td>The intelligent large model platform, built on openEuler, deeply integrates mainstream large language models, including DeepSeek, and features local knowledge base construction capabilities. The platform offers core functionalities such as semantic interface registration, MCP service management, intelligent agent (Agent) development, and automated workflow orchestration. It supports both web and desktop client access, significantly enhancing development efficiency and enterprise-level application experience!</td>
     </tr>
     <tr>
+        <td><img src="docs/hh-wserver/wserver.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/hzmosi/ai-wechat">WeChat RPA Intelligent Customer Service</a></td>
+        <td>Built-in DeepSeek Official API and Ali Bailian DeepSeek API, with seamless automatic switching when AI services are unavailable, ensuring 24/7 stable operation! This tool is implemented via RPA automation, does not access private interfaces.</td>
+    </tr>
+    <tr>
         <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://migo.intern-ai.org.cn/">Migo</a></td>
         <td>A free AI innovation accelerator offering intelligent Q&A, in-depth paper comprehension, cutting-edge AI tools, and a personal academic knowledge base. As your exploration partner, Migo helps you discover and realize outstanding ideas!</td>
