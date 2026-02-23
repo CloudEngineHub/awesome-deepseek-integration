@@ -50,6 +50,9 @@
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>面向安卓平台的開源系統集成 AI 助手，支持幾乎完整的 mcp 使用，與安卓系統高度兼容。軟件同時具備高度自定義和低門檻的上手體驗，內建文件操作、搜索、自動點擊、格式轉換等工具，並整合了 DeepSeek API 網頁。</td>
+        <td><img src="docs/openEuler Intelligence/intelligence_icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.openeuler.org/zh/projects/intelligence/">openEuler Intelligence</a></td>
+        <td>基於 openEuler 的大模型智能平台，深度整合了包括 DeepSeek 在內的主流大語言模型，並具備本地知識庫建構能力。平台提供語義介面註冊、MCP 服務管理、智慧體（Agent）開發及自動化工作流編排等核心功能，同時支援 Web 端和桌面客戶端雙模式存取，顯著提升開發效率與企業級應用體驗！</td>
     </tr>
     <tr>
         <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
@@ -82,6 +85,7 @@
 <td> <a href="https://github.com/aws-samples/swift-chat">SwiftChat</a> 是一款基於 React Native 構建的閃電般快速的跨平台 AI 聊天應用。它在 Android、iOS 和 macOS 上提供原生性能。功能包括實時流式聊天、豐富的 Markdown 支持、AI 圖像生成、可自定義系統提示、快速模型切換和多模態能力。支持包括 DeepSeek、Amazon Bedrock、Ollama 和 OpenAI 相容模型在內的多個 AI 提供商，具有簡潔的 UI 和高性能。</td>
     </tr>
     </tr>
+    <tr>
         <td> <img src="https://4everlogo.4everland.store/logo/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README.md">4EVERChat</a></td>
         <td> <a href="https://chat.4everland.org/">4EVERChat</a> 是一個整合數百個 LLM 的智慧模型選擇平台，實現模型效能的即時比較。利用 <a href="https://www.4everland.org/">4EVERLAND</a> AI RPC 的統一 API 端點，實現免費切換模型，並自動選擇響應快速且成本低的組合。</td>
