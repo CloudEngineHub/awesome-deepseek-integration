@@ -376,6 +376,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/ruzhiai_note/README_cn.md">如知AIノート</a> </td>
         <td>如知AIノートは、AIを活用したインテリジェントな知識管理ツールで、AI検索・探索、AI結果のノート変換、ノート管理・整理、知識の表示・共有など、ワンストップの知識管理・応用サービスを提供します。DeepSeek深層思考モデルを統合し、より安定した、より高品質な出力を提供します。</td>
+        <td> <img src="https://www.weiyuai.cn/logo.png" alt="AI Customer Service" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Bytedesk/bytedesk">Bytedesk</a> </td>
+        <td> AI を活用したライブ チャット、電子メール サポート、オムニチャネル カスタマー サービス、チーム IM を備えた、Slack + zendesk/intercom に代わるエンタープライズ IM ソリューション.</td>
     </tr>
 </table>
 
