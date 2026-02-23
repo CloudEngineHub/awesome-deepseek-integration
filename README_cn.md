@@ -428,6 +428,9 @@
         <td> <img src="https://www.weiyuai.cn/logo.png" alt="AI Customer Service" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Bytedesk/bytedesk">微语</a> </td>
         <td> 企业级多租户即时通讯解决方案，免费开源8件套：企业IM、在线客服、企业知识库、帮助文档、工单系统、AI对话、项目管理、工作流。.</td>
+        <td><img src="https://raw.githubusercontent.com/rockbenben/subtitle-translator/main/public/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/rockbenben/subtitle-translator">Subtitle Translator</a></td>
+        <td>支持 SRT/ASS/VTT/LRC 格式的批量字幕翻译工具，兼容 DeepSeek 等多种大模型接口和机器翻译接口。</td>
     </tr>
 </table>
 

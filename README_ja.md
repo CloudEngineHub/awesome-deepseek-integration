@@ -379,6 +379,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://www.weiyuai.cn/logo.png" alt="AI Customer Service" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Bytedesk/bytedesk">Bytedesk</a> </td>
         <td> AI を活用したライブ チャット、電子メール サポート、オムニチャネル カスタマー サービス、チーム IM を備えた、Slack + zendesk/intercom に代わるエンタープライズ IM ソリューション.</td>
+        <td><img src="https://raw.githubusercontent.com/rockbenben/subtitle-translator/main/public/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/rockbenben/subtitle-translator">Subtitle Translator</a></td>
+        <td>SRT/ASS/VTT/LRC形式に対応したバッチ字幕翻訳ツール。DeepSeekを含む多様なLLMおよび機械翻訳インターフェースと互換性があります。</td>
     </tr>
 </table>
 

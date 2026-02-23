@@ -524,6 +524,9 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <img src="https://www.weiyuai.cn/logo.png" alt="AI Customer Service" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Bytedesk/bytedesk">Bytedesk</a> </td>
         <td> Enterprise IM Solution with AI powered live chat, email support, omni-channel customer service & team im，alternative to slack + zendesk/intercom.</td>
+        <td><img src="https://raw.githubusercontent.com/rockbenben/subtitle-translator/main/public/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/rockbenben/subtitle-translator">Subtitle Translator</a></td>
+        <td>A batch subtitle translator supporting SRT/ASS/VTT/LRC formats, compatible with DeepSeek and various other LLMs and machine translation interfaces.</td>
     </tr>
 </table>
 
