@@ -435,6 +435,11 @@
         <td> <a href="https://haiguitang.net/"> 出前一汤 </a> </td>
         <td> <a href="https://haiguitang.net/"> 出前一汤 </a> 基于 DeepSeek 的 AI 主持人海龟汤 / 侧向思维解谜产品，可单人或者多人游玩。AI 进行控场与吐槽，围绕“是 / 否 / 无关”的问答推进推理；提供沉浸式玩法（更强剧情氛围与节奏引导）、引导提示与防卡关机制，同时结合向量检索 + DeepSeek 进行题目去重，并提供内容审核能力。适合轻量脑洞训练与在线陪玩。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/songquanpeng/one-api/main/web/default/public/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
+        <td> LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
