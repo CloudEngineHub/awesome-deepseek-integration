@@ -344,6 +344,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://3min.top/en">3mintop</a> </td>
         <td> DeepSeekモデルを活用して、わずか3分で任意のコンテンツを素早く要約し理解できる強力なAIツール。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://cantian.ai/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://cantian.ai/">Cantian AI</a></td>
+        <td>伝統的な東洋文化に基づく深く構造化された知識ベースを活用する、AIネイティブの専用八字占いサービスです。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

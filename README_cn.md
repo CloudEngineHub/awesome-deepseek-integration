@@ -385,6 +385,11 @@
         <td> <a href="https://3min.top/zh">3mintop</a> </td>
         <td> 一个强大的AI驱动工具，帮助您在3分钟内快速总结和理解任何内容，支持DeepSeek模型以增强理解能力。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://cantian.ai/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://cantian.ai/">参天AI</a></td>
+        <td>基于高质量数据集打造的八字命理AI</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
