@@ -1270,7 +1270,7 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> is a community driven leaderboard where the best prompts rise to the top.</td>
     </tr>
     <tr>
-        <td> <img src="https://avatars.githubusercontent.com/u/89342560?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+<td> <img src="https://avatars.githubusercontent.com/u/89342560?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Jeff2Ma/AlfredWorkflow-DeepSeek">DeepSeek Alfred WorkFlow</a> </td>
         <td> DeekSeek integrations in Alfred. </td>
     </tr>
@@ -1283,6 +1283,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <img src="https://github.com/LSTM-Kirigaya/openmcp-client/raw/main/icons/openmcp.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/LSTM-Kirigaya/openmcp-client"> OpenMCP </a> </td>
         <td> An all-in-one VS Code/Trae/Cursor plugin for MCP server development and debugging. Uses DeepSeek as the default LLM for testing MCP servers. </td>
+    </tr>
+    <tr>
+<td></td>
+        <td> <a href="https://github.com/informatico-madrid/blackwell-linux-infra-optimizer"> Blackwell Linux Infra Optimizer </a> </td>
+        <td> Optimized vLLM stack for NVIDIA Blackwell (SM_120) and Linux Kernel 6.14. Achieving 59.0 t/s on DeepSeek-R1-32B using native FlashInfer backend. </td>
     </tr>
 </table>
 
