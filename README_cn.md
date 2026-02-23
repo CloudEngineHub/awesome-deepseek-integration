@@ -380,6 +380,11 @@
         <td> <a href="https://github.com/obot-platform/obot">Obot</a> </td>
         <td> Obot 是一个用于构建和部署 AI 助手的智能体平台，内置 RAG、工作流自动化，并可与流行工具和服务无缝集成，支持 DeepSeek 等大语言模型。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://3min.top/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://3min.top/zh">3mintop</a> </td>
+        <td> 一个强大的AI驱动工具，帮助您在3分钟内快速总结和理解任何内容，支持DeepSeek模型以增强理解能力。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
