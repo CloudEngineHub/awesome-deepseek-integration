@@ -293,9 +293,9 @@
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> 是一個免程式設計的平台，讓行銷人員構建代理型 AI 工作流程，用於市場推廣自動化，並由數百個日常應用作為 AI 智慧體的工具提供支援。</td>
     </tr>
     <tr>
-        <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/img/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://stranslate.zggsong.com/en/">STranslate</a></td>
-        <td> <a href="https://stranslate.zggsong.com/en/">STranslate</a>（Windows）是一款由 WPF 開發的即用型翻譯 OCR 工具。</td>
+        <td> <img src="https://raw.githubusercontent.com/STranslate/STranslate/refs/heads/main/images/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://stranslate.zggsong.com/">STranslate</a></td>
+        <td> <a href="https://stranslate.zggsong.com/">STranslate</a>（Windows）是一款由 WPF 開發的即用型翻譯 OCR 工具。</td>
     </tr>
     <tr>
         <td> <img src="https://devinci.onicai.com/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
