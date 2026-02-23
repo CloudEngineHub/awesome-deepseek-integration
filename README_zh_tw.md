@@ -802,6 +802,9 @@
         <td> <img src="https://raw.githubusercontent.com/joygqz/commit-genie/refs/heads/main/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://marketplace.visualstudio.com/items?itemName=joygqz.commit-genie"> Commit Genie </a> </td>
         <td> 適用於 VS Code 的 AI 程式碼審查和提交訊息產生器。自動審查您的程式碼變更並產生有意義的標準提交訊息。 </td>
+        <td> <img src="https://github.com/JohnnyZ93/oai-compatible-copilot/blob/main/assets/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
+        <td> 開源的 VS Code 擴充功能，可在 GitHub Copilot 中使用 OpenAI 相容的推理提供者。 </td>
     </tr>
 </table>
 

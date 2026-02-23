@@ -737,6 +737,9 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <img src="https://raw.githubusercontent.com/joygqz/commit-genie/refs/heads/main/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://marketplace.visualstudio.com/items?itemName=joygqz.commit-genie"> Commit Genie </a> </td>
         <td> Revisión de código con IA y generador de mensajes de confirmación para VS Code. Revisa automáticamente los cambios de código y genera mensajes de confirmación estándar y relevantes. </td>
+        <td> <img src="https://github.com/JohnnyZ93/oai-compatible-copilot/blob/main/assets/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
+        <td> Una extensión de código abierto para VS Code para usar proveedores de inferencia compatibles con OpenAI en GitHub Copilot. </td>
     </tr>
 </table>
 

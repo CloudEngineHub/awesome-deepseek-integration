@@ -915,6 +915,9 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <img src="https://raw.githubusercontent.com/joygqz/commit-genie/refs/heads/main/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://marketplace.visualstudio.com/items?itemName=joygqz.commit-genie"> Commit Genie </a> </td>
         <td> AI-powered code review and commit message generator for VS Code. Automatically reviews your code changes and generates meaningful, standard commit messages. </td>
+        <td> <img src="https://github.com/JohnnyZ93/oai-compatible-copilot/blob/main/assets/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
+        <td> An open-source VS Code extension to use openai compatible inference providers in GitHub Copilot. </td>
     </tr>
 </table>
 

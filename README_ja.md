@@ -656,6 +656,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://raw.githubusercontent.com/joygqz/commit-genie/refs/heads/main/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://marketplace.visualstudio.com/items?itemName=joygqz.commit-genie"> Commit Genie </a> </td>
         <td> VS Code 用の AI コードレビューおよびコミットメッセージジェネレーター。コードの変更を自動的にレビューし、意味のある標準的なコミットメッセージを生成します。 </td>
+        <td> <img src="https://github.com/JohnnyZ93/oai-compatible-copilot/blob/main/assets/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
+        <td> GitHub Copilot で OpenAI 互換の推論プロバイダーを使用するためのオープンソースの VS Code 拡張機能です。 </td>
     </tr>
 </table>
 
