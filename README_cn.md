@@ -410,6 +410,11 @@
         <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
         <td> <a href="http://bibigpt.co">BibiGPT</a> 是一款AI音视频助理，支持B站、油管、小红书、小宇宙播客等主流平台的内容分析和总结，让音视频看得快、搜得到、用得好。提供内容摘要、智能问答和文章生成等功能。支持视频文件上传、笔记应用集成和DeepSeek R1及V3模型。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://lobehub.com/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://lobehub.com/zh/docs/usage/providers/deepseek">LobeChat</a> </td>
+        <td> <a href="https://lobehub.com">LobeChat</a> - 一款开源的现代化 AI 对话框架。支持 DeepSeek R1、知识库（文件上传/知识管理/RAG）、多模态能力（视觉/语音合成/插件/创作）。一键免费部署专属 DeepSeek 应用，打造您的私人 AI 助手。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

@@ -503,6 +503,9 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
         <td> <a href="http://bibigpt.co">BibiGPT</a> is an AI audio/video assistant that supports content analysis and summarization from major platforms like Bilibili, YouTube, Xiaohongshu, and podcast platforms, making audio/video content faster to consume, easier to find, and better to use. Features include content summarization, interactive Q&A, and article generation. Supports video file uploads, note-taking app integration, and DeepSeek R1 and V3 models. </td>
+        <td> <img src="https://lobehub.com/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://lobehub.com/docs/usage/providers/deepseek">LobeChat</a> </td>
+        <td> <a href="https://lobehub.com">LobeChat</a> - an open-source, modern-design AI chat framework. Supports DeepSeek R1, Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private DeepSeek application </td>
     </tr>
 </table>
 

@@ -366,6 +366,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
         <td> <a href="http://bibigpt.co">BibiGPT</a> は、ビリビリ動画、YouTube、小紅書、ポッドキャストなどの主要プラットフォームのコンテンツ分析と要約をサポートするAI音声・動画アシスタントで、音声・動画コンテンツの素早い視聴、簡単な検索、効果的な活用を実現します。コンテンツの要約、インタラクティブなQ&A、記事生成などの機能を提供。動画ファイルのアップロード、メモアプリの連携、DeepSeek R1とV3モデルをサポート。 </td>
+        <td> <img src="https://lobehub.com/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://lobehub.com/ja/docs/usage/providers/deepseek">LobeChat</a> </td>
+        <td> <a href="https://lobehub.com">LobeChat</a> - オープンソースのモダンな AI チャットフレームワーク。DeepSeek R1、ナレッジベース（ファイルアップロード/知識管理/RAG）、マルチモーダル機能（画像認識/音声合成/プラグイン/アーティファクト）に対応。わずか1クリックで、独自の DeepSeek アプリケーションを無料でデプロイ可能。</td>
     </tr>
 </table>
 
