@@ -799,6 +799,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://readfrog.mengxi.work"> 🐸 Read Frog </a> </td>
         <td> Translate and understand any webpage in depth with AI assistance. </td>
     </tr>
+    <tr>
+        <td> <img src="https://chathub.gg/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://chathub.gg"> ChatHub </a> </td>
+        <td> All-in-one AI client </td>
+    </tr>
 </table>
 
 
