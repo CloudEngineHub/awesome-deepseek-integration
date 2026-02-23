@@ -291,6 +291,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> is a no-code platform where marketers build agentic AI workflows for go-to-market automation, powered by hundreds of everyday apps as tools for your AI agents.</td>
     </tr>
     <tr>
+        <td> <img src="https://agentomat.com/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://agentomat.com/">AGENTOMAT</a> </td>
+        <td> <a href="https://agentomat.com/">AGENTOMAT</a> AI Agents for Everyone - the platform to create, share and monitor AI Agents.</td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/attachments/imgs/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://stranslate.zggsong.com/en/">STranslate</a></td>
         <td> <a href="https://stranslate.zggsong.com/en/">STranslate</a>（Windows） is a ready-to-go translation ocr tool developed by WPF </td>
