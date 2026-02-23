@@ -354,6 +354,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://cantian.ai/">Cantian AI</a></td>
         <td>伝統的な東洋文化に基づく深く構造化された知識ベースを活用する、AIネイティブの専用八字占いサービスです。</td>
     </tr>
+    <tr>
+        <td> <img src="https://obsidian.md/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/TarsLab/obsidian-tars">Obsidian Tars</a></td>
+        <td> Obsidianのノート編集にLLMの会話を統合し、deepseek-reasonerのチェーン・オブ・ソート(CoT)出力をコールアウト形式で表示します。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
