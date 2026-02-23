@@ -8,7 +8,7 @@
 
 DeepSeek API を人気のソフトウェアに統合します。API キーを取得するには、[DeepSeek Open Platform](https://platform.deepseek.com/)にアクセスしてください。
 
-[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/[繁體中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md)/日本語/[Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
+[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md) / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md) / [繁體中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md) / 日本語 / [Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
 </div>
 
 </br>
