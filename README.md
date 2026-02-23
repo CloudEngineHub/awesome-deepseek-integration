@@ -951,9 +951,16 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <img src="https://raw.githubusercontent.com/joygqz/commit-genie/refs/heads/main/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://marketplace.visualstudio.com/items?itemName=joygqz.commit-genie"> Commit Genie </a> </td>
         <td> AI-powered code review and commit message generator for VS Code. Automatically reviews your code changes and generates meaningful, standard commit messages. </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/JohnnyZ93/oai-compatible-copilot/blob/main/assets/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> An open-source VS Code extension to use openai compatible inference providers in GitHub Copilot. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://littlecareless.gallerycdn.vsassets.io/extensions/littlecareless/dish-ai-commit/0.56.1/1766035023782/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/littleCareless/dish-ai-commit"> Dish AI Commit </a> </td>
+        <td> An AI-powered VS Code extension that automatically generates standardized Git/SVN commit messages, PR summaries, and weekly reports using DeepSeek and other AI providers. </td>
     </tr>
 </table>
 
@@ -1271,6 +1278,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <img src="https://github.com/user-attachments/assets/cbf6193b-fd66-4b88-bcf7-98699becf046" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/sally-suite/open-office-copilot">Open Office Copilot</a> </td>
         <td> Open Office Copilot is an open-source Office copilot that supports Microsoft Office and Google Workspace, based on AI-Agent. It can help you with writing in Word, generating slides in PowerPoint, analyzing data in Excel, and generating emails in Outlook, among other tasks. It has now integrated with DeepSeek. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/LSTM-Kirigaya/openmcp-client/raw/main/icons/openmcp.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/LSTM-Kirigaya/openmcp-client"> OpenMCP </a> </td>
+        <td> An all-in-one VS Code/Trae/Cursor plugin for MCP server development and debugging. Uses DeepSeek as the default LLM for testing MCP servers. </td>
     </tr>
 </table>
 
