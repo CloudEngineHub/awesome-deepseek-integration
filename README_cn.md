@@ -405,6 +405,11 @@
         <td> <a href="https://github.com/bobbylkchao/chatbotBuilder">AI Chatbot Builder</a> </td>
         <td> <a href="www.chatbotbuilder.dev/">Chatbot Builder</a> 是一个开源平台，集成了 DeepSeek 和 OpenAI模型，允许用户为不同的对话场景创建定制化的聊天机器人。通过低代码和可配置的方式，轻松构建智能对话体验。</td>
     </tr>
+    <tr>
+        <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> 是一款AI音视频助理，支持B站、油管、小红书、小宇宙播客等主流平台的内容分析和总结，让音视频看得快、搜得到、用得好。提供内容摘要、智能问答和文章生成等功能。支持视频文件上传、笔记应用集成和DeepSeek R1及V3模型。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

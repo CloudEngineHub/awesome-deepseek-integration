@@ -363,6 +363,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://www.chatbotbuilder.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/bobbylkchao/chatbotBuilder">AI Chatbot Builder</a> </td>
         <td> <a href="www.chatbotbuilder.dev/">Chatbot Builder</a> はオープンソースのプラットフォームで、DeepSeekとOpenAIモデルを統合し、さまざまな対話シナリオに対応したカスタマイズ可能なチャットボットを作成できます。ローコードかつ設定可能な方法で、簡単にインテリジェントな対話体験を構築できます。</td>
+        <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> は、ビリビリ動画、YouTube、小紅書、ポッドキャストなどの主要プラットフォームのコンテンツ分析と要約をサポートするAI音声・動画アシスタントで、音声・動画コンテンツの素早い視聴、簡単な検索、効果的な活用を実現します。コンテンツの要約、インタラクティブなQ&A、記事生成などの機能を提供。動画ファイルのアップロード、メモアプリの連携、DeepSeek R1とV3モデルをサポート。 </td>
     </tr>
 </table>
 
@@ -551,6 +554,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://static.eudic.net/web/trans/en_trans.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Lulu Translate/README.md"> Lulu Translate </a> </td>
         <td> このプラグインは、マウス選択翻訳、段落ごとの比較翻訳、およびPDF文書の翻訳機能を提供します。DeepSeek AI、Bing、GPT、Googleなどのさまざまな翻訳エンジンを利用できます。 </td>
+        <td> このプラグインは、マウス選択翻訳、段落ごとの比較翻訳、およびPDF文書訳機能を提供します。DeepSeek AI、Bing、GPT、Googleなどのさまざまな翻訳エンジンを利用できます。 </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/Bistutu/FluentRead/raw/refs/heads/main/public/icon/192.png" alt="Icon" width="64" height="auto" /> </td>

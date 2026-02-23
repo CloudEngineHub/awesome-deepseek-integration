@@ -500,6 +500,9 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <img src="https://www.chatbotbuilder.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/bobbylkchao/chatbotBuilder">AI Chatbot Builder</a> </td>
         <td> <a href="www.chatbotbuilder.dev/">Chatbot Builder</a> is an open-source chatbot platform powered by DeepSeek and OpenAI, enabling intelligent conversations across various scenarios.</td>
+        <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> is an AI audio/video assistant that supports content analysis and summarization from major platforms like Bilibili, YouTube, Xiaohongshu, and podcast platforms, making audio/video content faster to consume, easier to find, and better to use. Features include content summarization, interactive Q&A, and article generation. Supports video file uploads, note-taking app integration, and DeepSeek R1 and V3 models. </td>
     </tr>
 </table>
 
