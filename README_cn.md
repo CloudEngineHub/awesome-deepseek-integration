@@ -963,6 +963,11 @@
         <td> <a href="https://github.com/skypilot-org/skypilot">SkyPilot</a> </td>
         <td> <a href="https://github.com/skypilot-org/skypilot/tree/master/llm/deepseek-r1">在任何云基础设施上部署DeepSeek模型</a>（Kubernetes、AWS、Azure、GCP或GPU云）。支持多区域、多集群和多云的自动扩展。</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/cbf6193b-fd66-4b88-bcf7-98699becf046" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/sally-suite/open-office-copilot">Open Office Copilot</a> </td>
+        <td> Open Office Copilot 是一个开源的 Office 助手，支持 Microsoft Office 和 Google Workspace，基于 AI-Agent。它可以帮助你在 Word 中写作、在 PowerPoint 中生成幻灯片、在 Excel 中分析数据、在 Outlook 里帮你生成邮件等，现在已经集成了 DeepSeek。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

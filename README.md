@@ -1248,6 +1248,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/Jeff2Ma/AlfredWorkflow-DeepSeek">DeepSeek Alfred WorkFlow</a> </td>
         <td> DeekSeek integrations in Alfred. </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/cbf6193b-fd66-4b88-bcf7-98699becf046" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/sally-suite/open-office-copilot">Open Office Copilot</a> </td>
+        <td> Open Office Copilot is an open-source Office copilot that supports Microsoft Office and Google Workspace, based on AI-Agent. It can help you with writing in Word, generating slides in PowerPoint, analyzing data in Excel, and generating emails in Outlook, among other tasks. It has now integrated with DeepSeek. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>

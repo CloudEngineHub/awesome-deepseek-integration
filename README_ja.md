@@ -868,6 +868,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/Jeff2Ma/AlfredWorkflow-DeepSeek">DeepSeek Alfred WorkFlow</a> </td>
         <td> MacのAlfredアプリでDeekSeekのワークフローを素早く呼び出す。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/cbf6193b-fd66-4b88-bcf7-98699becf046" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/sally-suite/open-office-copilot">Open Office Copilot</a> </td>
+        <td> Open Office Copilot は、Microsoft Office と Google Workspace をサポートするオープンソースの Office アシスタントで、AI-Agent をベースにしています。Word での執筆、PowerPoint でのスライド生成、Excel でのデータ分析、Outlook でのメール作成などを支援します。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
