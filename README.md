@@ -1184,7 +1184,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Large Language Models Python API. </td>
     </tr>
     <tr>
-        <td> <img src="https://serpapi.com/android-chrome-512x512.png" alt="Icon" height="auto" />   </td>
+        <td> <img src="https://i.imgur.com/zDgW8wB.png" width="64" alt="Icon" height="auto" /> </td>
+        <td> <a href="https://github.com/skypilot-org/skypilot">SkyPilot</a> </td>
+        <td> <a href="https://github.com/skypilot-org/skypilot/tree/master/llm/deepseek-r1">Serve DeepSeek models</a> in any cloud infrastructure (Kubernetes, AWS, Azure, GCP, or GPU clouds). Autoscale to multi-region, multi-cluster, and multi-cloud.</td>
+    </tr>
+    <tr>
         <td> <a href="https://serpapi.com/blog/connect-deepseek-api-with-the-internet-google-search-and-more/#connect-deepseek-with-google-search-result"> SerpApi </a> </td>
         <td> Connect DeepSeek API with search results like Google. </td>
     </tr>

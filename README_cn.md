@@ -928,6 +928,11 @@
         <td> <a href="https://github.com/Jeff2Ma/AlfredWorkflow-DeepSeek">DeepSeek Alfred WorkFlow</a> </td>
         <td> 在 Mac Alfred App 中快速调用 DeekSeek 的 workflow。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://i.imgur.com/zDgW8wB.png" width="64" alt="Icon" height="auto" /> </td>
+        <td> <a href="https://github.com/skypilot-org/skypilot">SkyPilot</a> </td>
+        <td> <a href="https://github.com/skypilot-org/skypilot/tree/master/llm/deepseek-r1">在任何云基础设施上部署DeepSeek模型</a>（Kubernetes、AWS、Azure、GCP或GPU云）。支持多区域、多集群和多云的自动扩展。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
