@@ -431,6 +431,9 @@
         <td><img src="https://raw.githubusercontent.com/rockbenben/subtitle-translator/main/public/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/rockbenben/subtitle-translator">Subtitle Translator</a></td>
         <td>支持 SRT/ASS/VTT/LRC 格式的批量字幕翻译工具，兼容 DeepSeek 等多种大模型接口和机器翻译接口。</td>
+        <td width=80> <img src="docs/turtlenoir/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://haiguitang.net/"> 出前一汤 </a> </td>
+        <td> <a href="https://haiguitang.net/"> 出前一汤 </a> 基于 DeepSeek 的 AI 主持人海龟汤 / 侧向思维解谜产品，可单人或者多人游玩。AI 进行控场与吐槽，围绕“是 / 否 / 无关”的问答推进推理；提供沉浸式玩法（更强剧情氛围与节奏引导）、引导提示与防卡关机制，同时结合向量检索 + DeepSeek 进行题目去重，并提供内容审核能力。适合轻量脑洞训练与在线陪玩。 </td>
     </tr>
 </table>
 

@@ -426,6 +426,9 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td><img src="https://raw.githubusercontent.com/rockbenben/subtitle-translator/main/public/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/rockbenben/subtitle-translator">Subtitle Translator</a></td>
         <td>Herramienta de traducción de subtítulos por lotes para formatos SRT/ASS/VTT/LRC, compatible con DeepSeek y otras interfaces de LLM y traducción automática.</td>
+        <td width=80> <img src="docs/turtlenoir/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
+        <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> Un juego de enigmas de pensamiento lateral tipo "Sopa de Tortuga" con un anfitrión de IA basado en DeepSeek, disponible para uno o varios jugadores. La IA modera la partida e interactúa con humor, guiando la deducción mediante respuestas de "Sí / No / Irrelevante". Ofrece una experiencia inmersiva con una fuerte atmósfera narrativa, gestión del ritmo y un sistema de pistas para evitar bloqueos. Integra búsqueda vectorial y DeepSeek para evitar la repetición de acertijos e incluye moderación de contenido. Ideal para entrenar la creatividad y como entretenimiento social en línea. </td>
     </tr>
 </table>
 
