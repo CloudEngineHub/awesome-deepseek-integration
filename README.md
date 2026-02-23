@@ -866,6 +866,9 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <img src="https://chathub.gg/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://chathub.gg"> ChatHub </a> </td>
         <td> All-in-one AI client </td>
+        <td> <img src="./docs/Rearview/assets/favicon.webp" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="./docs/Rearview/README.md"> RearView </a> </td>
+        <td>Rearview is a browser history management extension that supports full-text search of historical browsing content and converts browsing history into a conversationable knowledge base.</td>
     </tr>
 </table>
 

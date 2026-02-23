@@ -220,6 +220,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     Proporciona concurrencia Swift fácil de usar para chat, streaming, FIM (Fill-in-the-Middle) completions y más.
   </td>
 </tr>
+    <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel Integration" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-php/deepseek-laravel/blob/master/README.md">Laravel Integration</a> </td>
         <td> Laravel wrapper para el cliente PHP de Deepseek, para una integración perfecta de la API de Deepseek con aplicaciones Laravel.</td>
@@ -307,6 +308,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/README.md"> Alpha Pai </a> </td>
         <td> Asistente de Investigación AI / El portal de información financiera de próxima generación impulsado por IA.<br>Proxy para inversores para asistir a reuniones y tomar notas, así como proporcionar servicios de búsqueda y preguntas y respuestas para información financiera y análisis cuantitativo para investigación de inversiones.</td>
     </tr>
+    <tr>
         <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icono" width="64" height="auto" /> </td>
         <td> <a href="https://www.xark-argo.com">argo</a> </td>
         <td>Descarga y ejecuta localmente modelos Ollama y Huggingface con RAG en Mac/Windows/Linux. También admite API de LLM.</td>
@@ -690,6 +692,9 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td><img src="https://readfrog.mengxi.work/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://readfrog.mengxi.work"> 🐸 Read Frog </a></td>
         <td>Traduce y comprende en profundidad cualquier página web con la ayuda de la IA.</td>
+        <td> <img src="./docs/Rearview/assets/favicon.webp" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="./docs/Rearview/README_es.md"> RearView </a> </td>
+        <td>Rearview es una extensión de gestión del historial del navegador que admite la búsqueda de texto completo del contenido de navegación histórico y convierte el historial de navegación en una base de conocimientos conversacional.</td>
     </tr>
 </table>
 

@@ -722,6 +722,9 @@
         <td><img src="https://readfrog.mengxi.work/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://readfrog.mengxi.work"> 🐸 陪读蛙 </a></td>
         <td>借助 AI 深度翻译并理解任何网页。</td>
+        <td> <img src="./docs/Rearview/assets/favicon.webp" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="./docs/Rearview/README_cn.md"> RearView </a> </td>
+        <td>Rearview 是一款浏览器历史管理扩展，支持对历史浏览内容的全文搜索，并将浏览历史转换为可对话的知识库。</td>
     </tr>
 
 
