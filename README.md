@@ -464,6 +464,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/SamYuan1990/i18n-agent-action">i18n-agent-action</a> </td>
         <td> The i18n Agent is an AI-powered tool designed to streamline and automate internationalization (i18n) and localization (l10n) workflows. By leveraging advanced natural language processing (NLP) and machine learning, it helps developers, translators, and product teams efficiently manage multilingual content—eliminating manual errors and accelerating global deployments. </td>
     </tr>
+    <tr>
+        <td> <img src="https://mindpal.space/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://mindpal.io">MindPal</a> </td>
+        <td> <a href="https://mindpal.io">MindPal</a> is a platform to build AI Agents and Multi-agent Systems to automate any business processes </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
