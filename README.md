@@ -54,6 +54,8 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>An open-source system integration AI assistant for the Android platform, supporting almost complete mcp usage and highly compatible with the Android system. The software features both high customization and a low learning threshold, with built-in tools for file operations, searches, automatic clicks, format conversions, and an integrated DeepSeek API webpage.</td>
+    </tr>
+    <tr>
         <td><img src="docs/openEuler Intelligence/intelligence_icon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.openeuler.org/en/projects/intelligence/">openEuler Intelligence</a></td>
         <td>The intelligent large model platform, built on openEuler, deeply integrates mainstream large language models, including DeepSeek, and features local knowledge base construction capabilities. The platform offers core functionalities such as semantic interface registration, MCP service management, intelligent agent (Agent) development, and automated workflow orchestration. It supports both web and desktop client access, significantly enhancing development efficiency and enterprise-level application experience!</td>

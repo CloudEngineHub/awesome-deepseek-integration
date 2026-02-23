@@ -50,6 +50,8 @@
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>面向安卓平台的开源系统集成化ai助手，支持几乎完整的mcp使用，高度兼容安卓系统。软件同时具备高度自定义和上手低门槛，内置文件操作/搜索/自动点击/格式转换等工具调用，并内置deepseek api网页。</td>
+    </tr>
+    <tr>
         <td><img src="docs/openEuler Intelligence/intelligence_icon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.openeuler.org/zh/projects/intelligence/">openEuler Intelligence</a></td>
         <td>基于 openEuler 的大模型智能平台，深度整合了包括 DeepSeek 在内的主流大语言模型，并具备本地知识库构建能力。平台提供语义接口注册、MCP 服务管理、智能体（Agent）开发及自动化工作流编排等核心功能，同时支持 Web 端和桌面客户端双模式访问，显著提升开发效率与企业级应用体验！</td>
