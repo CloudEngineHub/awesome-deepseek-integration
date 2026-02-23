@@ -814,6 +814,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a></td>
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> はコミュニティ主導のリーダーボードで、最高のプロンプトが上位に浮上します。</td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/89342560?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Jeff2Ma/AlfredWorkflow-DeepSeek">DeepSeek Alfred WorkFlow</a> </td>
+        <td> MacのAlfredアプリでDeekSeekのワークフローを素早く呼び出す。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

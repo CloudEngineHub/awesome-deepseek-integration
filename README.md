@@ -87,6 +87,7 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/aws-samples/swift-chat">SwiftChat</a> is a lightning-fast, cross-platform AI chat application built with React Native. It delivers native performance on Android, iOS, and macOS. Features include real-time streaming chat, rich Markdown support, AI image generation, customizable system prompts, quick model selection and multimodal capabilities. Supports multiple AI providers including DeepSeek, Amazon Bedrock, Ollama and OpenAI Compatible Modles with clean UI and high performance.</td>
     </tr>
     </tr>
+    <tr>
         <td><img src="https://4everlogo.4everland.store/logo/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README.md">4EVERChat</a></td>
         <td><a href="https://chat.4everland.org/">4EVERChat</a> is an intelligent model selection platform integrating hundreds of LLMs, enabling real-time comparison of model performance. Leveraging <a href="https://www.4everland.org/">4EVERLAND</a> AI RPC's unified API endpoint, it achieves cost-free model switching and automatically selects combinations with fast responses and low costs.</td>
@@ -236,6 +237,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     It provides easy-to-use Swift concurrency for chat, streaming, FIM (Fill-in-the-Middle) completions, and more.
   </td>
 </tr>
+    <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel Integration" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-php/deepseek-laravel/blob/master/README.md">Laravel Integration</a> </td>
         <td> Laravel wrapper for Deepseek PHP client, to seamless deepseek API integration with laravel applications.</td>
@@ -479,6 +481,7 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/nanbingxyz/5ire">5ire</a> </td>
         <td> <a href="https://github.com/nanbingxyz/5ire">5ire</a> is a user-friendly, cross-platform open-source desktop AI assistant, compatible with mainstream LLMs, supporting MCP Servers, local RAG, prompt libraries, and various practical functions.</td>
     </tr>
+    <tr>
         <td> <img src="https://prompt.16x.engineer/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/16x_prompt/README.md">16x Prompt</a> </td>
         <td> <a href="https://prompt.16x.engineer/">16x Prompt</a> is an AI coding tool with context management. It helps developers manage source code context and craft prompts for complex coding tasks on existing codebases.</td>
@@ -1178,6 +1181,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <img src="https://www.godtierprompts.com/logo.jpg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> </td>
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> is a community driven leaderboard where the best prompts rise to the top.</td>
+    </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/89342560?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Jeff2Ma/AlfredWorkflow-DeepSeek">DeepSeek Alfred WorkFlow</a> </td>
+        <td> DeekSeek integrations in Alfred. </td>
     </tr>
 </table>
 
