@@ -475,6 +475,10 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> A powerful AI-powered tool that helps you quickly summarize and understand any content in just 3 minutes, supporting DeepSeek models for enhanced comprehension. </td>
     </tr>
     <tr>
+        <td> <img src="https://5ire.app/favicon.ico" alt="5ire-logo" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/nanbingxyz/5ire">5ire</a> </td>
+        <td> <a href="https://github.com/nanbingxyz/5ire">5ire</a> is a user-friendly, cross-platform open-source desktop AI assistant, compatible with mainstream LLMs, supporting MCP Servers, local RAG, prompt libraries, and various practical functions.</td>
+    </tr>
         <td> <img src="https://prompt.16x.engineer/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/16x_prompt/README.md">16x Prompt</a> </td>
         <td> <a href="https://prompt.16x.engineer/">16x Prompt</a> is an AI coding tool with context management. It helps developers manage source code context and craft prompts for complex coding tasks on existing codebases.</td>
