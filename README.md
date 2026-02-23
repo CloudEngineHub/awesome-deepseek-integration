@@ -296,6 +296,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://agentomat.com/">AGENTOMAT</a> AI Agents for Everyone - the platform to create, share and monitor AI Agents.</td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/obot-platform/obot/refs/heads/main/docs/static/img/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/obot-platform/obot">Obot</a> </td>
+        <td> Obot is an agent platform for building and deploying AI assistants with built-in RAG, workflow automation, and seamless integration with popular tools and services, powered by LLMs like DeepSeek. </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/attachments/imgs/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://stranslate.zggsong.com/en/">STranslate</a></td>
         <td> <a href="https://stranslate.zggsong.com/en/">STranslate</a>（Windows） is a ready-to-go translation ocr tool developed by WPF </td>
