@@ -848,7 +848,7 @@ The purpose is to build infrastructure in the field of large models, through the
         <td>An intelligent RSS reader browser extension with AI-powered RSS summarization and multi-dimensional feed views. Supports DeepSeek model configuration for enhanced content understanding. </td>
     </tr>
     <tr>
-        <td> <img src="./docs/refinereader/assets/refinereader-128.png" alt="Icon" width="64" height="auto" /> </td>
+<td> <img src="./docs/refinereader/assets/refinereader-128.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://refinereader.cuihuaer.com"> Refine Reader </a> </td>
         <td> A Chrome extension that uses AI (DeepSeek, OpenAI, etc.) to help you quickly understand and summarize articles. </td>
     </tr>
@@ -894,6 +894,9 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <img src="./docs/Rearview/assets/favicon.webp" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="./docs/Rearview/README.md"> RearView </a> </td>
         <td>Rearview is a browser history management extension that supports full-text search of historical browsing content and converts browsing history into a conversationable knowledge base.</td>
+<td> <img src="https://www.chatgot.io/chat/assets/imgs/logo@2x.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.chatgot.io/"> ChatGOT </a> </td>
+        <td> A free AI chatbot assistant for enhancing productivity </td>
     </tr>
 </table>
 

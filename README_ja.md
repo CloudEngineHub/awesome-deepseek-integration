@@ -599,7 +599,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td>AIを活用したRSS要約と多次元フィードビューを備えたインテリジェントなRSSリーダーブラウザ拡張機能。コンテンツ理解を強化するためのDeepSeekモデル設定をサポートしています。</td>
     </tr>
     <tr>
-        <td> <img src="./docs/refinereader/assets/refinereader-128.png" alt="Icon" width="64" height="auto" /> </td>
+<td> <img src="./docs/refinereader/assets/refinereader-128.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://refinereader.cuihuaer.com"> Refine Reader </a> </td>
         <td> AI（DeepSeek、OpenAI等）を使用して記事を素早く理解し要約するためのChrome拡張機能。 </td>
     </tr>
@@ -637,6 +637,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="./docs/Rearview/assets/favicon.webp" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="./docs/Rearview/README_ja.md"> RearView </a> </td>
         <td>Rearview はブラウザ履歴管理拡張機能で、履歴ブラウジング内容の全文検索をサポートし、履歴を会話可能な知識ベースに変換します。</td>
+<td> <img src="https://www.chatgot.io/chat/assets/imgs/logo@2x.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.chatgot.io/"> ChatGOT </a> </td>
+        <td> 生産性を向上させるための無料のAIチャットボットアシスタント </td>
     </tr>
 </table>
 
