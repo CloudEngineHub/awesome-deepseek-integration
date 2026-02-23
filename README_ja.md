@@ -540,6 +540,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td><img src="./docs/SelectTranslate/assets/icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://selecttranslate.com/">SelectTranslate</a></td>
+        <td>SelectTranslateは、バイリンガルウェブページ翻訳、AI最適翻訳（コピー翻訳）、入力翻訳、PDF翻訳など、革新的で実用的な翻訳機能を備えた、無料かつオープンなAI翻訳拡張機能です。</td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/9d3f42b8-fcd0-47ab-8b06-1dd0554dd80e" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_translate/README.md"> Immersive Translate </a> </td>
         <td> Immersive Translateは、バイリンガルのウェブページ翻訳プラグインです。 </td>

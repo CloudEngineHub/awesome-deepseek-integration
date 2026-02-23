@@ -773,6 +773,12 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <table>
     <tr>
+        <td><img src="./docs/SelectTranslate/assets/icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://selecttranslate.com/">SelectTranslate</a></td>
+        <td>A free and open AI translation extension, with innovative and practical translation functions such as bilingual webpage translation, AI-selected translation (copy translation), input translation, and PDF translation.
+        </td>
+    </tr>
+    <tr>
         <td><img src="./docs/deepshare/assets/logo_200.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="./docs/deepshare/README.md">Tiny AI Bee</a></td>
         <td> Tiny AI Bee is a free login-free one-click grease monkey plugin for sharing AI chats,
