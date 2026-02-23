@@ -531,6 +531,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> An AI-hosted lateral thinking puzzle game (Situation Puzzles / "Turtle Soup") powered by DeepSeek, supporting both single-player and multiplayer modes. The AI moderator manages the game flow and provides witty commentary, guiding the deduction process through standard "Yes / No / Irrelevant" Q&A. Features include an immersive gameplay mode, smart hints, puzzle deduplication, and content moderation. Perfect for casual brain training and online social gaming. </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/songquanpeng/one-api/main/web/default/public/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
+        <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
