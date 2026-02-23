@@ -1177,6 +1177,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their DeepSeek applications. </td>
     </tr>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/8226202?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/comet-ml/opik"> Opik </a> </td>
+        <td> Open-source platform for LLM observability, evaluations, and prompt optimization for DeepSeek applications. </td>
+    </tr>
+    <tr>
         <td> CR </td>
         <td> <a href="https://github.com/hustcer/deepseek-review"> deepseek-review </a> </td>
         <td> 🚀 Sharpen Your Code, Ship with Confidence – Elevate Your Workflow with Deepseek Code Review 🚀 </td>
