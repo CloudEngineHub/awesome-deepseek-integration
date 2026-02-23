@@ -366,9 +366,16 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
         <td> <a href="http://bibigpt.co">BibiGPT</a> は、ビリビリ動画、YouTube、小紅書、ポッドキャストなどの主要プラットフォームのコンテンツ分析と要約をサポートするAI音声・動画アシスタントで、音声・動画コンテンツの素早い視聴、簡単な検索、効果的な活用を実現します。コンテンツの要約、インタラクティブなQ&A、記事生成などの機能を提供。動画ファイルのアップロード、メモアプリの連携、DeepSeek R1とV3モデルをサポート。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://lobehub.com/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://lobehub.com/ja/docs/usage/providers/deepseek">LobeChat</a> </td>
         <td> <a href="https://lobehub.com">LobeChat</a> - オープンソースのモダンな AI チャットフレームワーク。DeepSeek R1、ナレッジベース（ファイルアップロード/知識管理/RAG）、マルチモーダル機能（画像認識/音声合成/プラグイン/アーティファクト）に対応。わずか1クリックで、独自の DeepSeek アプリケーションを無料でデプロイ可能。</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/ruzhiai_note/README_cn.md">如知AIノート</a> </td>
+        <td>如知AIノートは、AIを活用したインテリジェントな知識管理ツールで、AI検索・探索、AI結果のノート変換、ノート管理・整理、知識の表示・共有など、ワンストップの知識管理・応用サービスを提供します。DeepSeek深層思考モデルを統合し、より安定した、より高品質な出力を提供します。</td>
     </tr>
 </table>
 
@@ -386,11 +393,6 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
         <td>エージェント間の信頼できる通信のための基本プロトコルフレームワークです。利用者は<a href="https://docs.apro.com/attps">ATTPs</a>のSDKを導入することで、エージェントの登録、検証可能なデータの送信、検証可能なデータの取得などの機能を利用することができます。</td>
-    </tr>
-    <tr>
-        <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/ruzhiai_note/README_cn.md">如知AIノート</a> </td>
-        <td>如知AIノートは、AIを活用したインテリジェントな知識管理ツールで、AI検索・探索、AI結果のノート変換、ノート管理・整理、知識の表示・共有など、ワンストップの知識管理・応用サービスを提供します。DeepSeek深層思考モデルを統合し、より安定した、より高品質な出力を提供します。</td>
     </tr>
     <tr>
         <td> <img src="docs/translate.js/assets/icon.png" alt="图标" width="64" height="auto" /> </td>
@@ -417,6 +419,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> は、自律エージェントを構築、実行、および評価するための柔軟で高性能なフレームワークです。ベンチマークテストで最高の成績を収めるだけでなく、このフレームワークは、オープンソースモデルを使用して、データ分析、ファイル処理、詳細な調査などの強力なエージェント機能を提供します。 </td>
     </tr>
+
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
