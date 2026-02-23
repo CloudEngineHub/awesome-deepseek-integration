@@ -768,6 +768,11 @@
             <td> <a href="https://code.visualstudio.com/docs/intelligentapps/overview"> AI Toolkit </a> </td>
             <td> Visual Studio Code 的 AI Toolkit 是一个综合性扩展，为开发人员和 AI 工程师提供使用生成式 AI 模型构建、测试和部署智能应用程序的能力。 </td>
         </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/joygqz/commit-genie/refs/heads/main/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=joygqz.commit-genie"> Commit Genie </a> </td>
+        <td> 适用于 VS Code 的 AI 代码审查和提交消息生成器。自动审查您的代码更改并生成有意义的标准提交消息。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
